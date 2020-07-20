@@ -1,4 +1,4 @@
-package application.controller;
+package application.task;
 
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
