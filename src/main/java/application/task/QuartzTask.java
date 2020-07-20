@@ -12,7 +12,7 @@ import java.util.Date;
  * @Date 2020/7/20 21:44
  * @Version V1.0
  **/
-@Component
+//@Component
 public class QuartzTask {
     @Scheduled(cron = "0 0/1 * * * ?") // 每分钟执行一次
     public void work() throws Exception {

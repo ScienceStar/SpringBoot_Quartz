@@ -67,9 +67,6 @@
                 </exclusion>
             </exclusions>
         </dependency>
-        <!-- Spring tx 坐标，quartz可以提供分布式定时任务环境。多个分布点上的Quartz任务，是通过数据库实现任务信息传递的。
-            通过数据库中的数据，保证一个时间点上，只有一个分布环境执行定时任务。
-         -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-tx</artifactId>
