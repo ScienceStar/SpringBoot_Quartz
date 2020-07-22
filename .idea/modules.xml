@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBoot_Quartz.iml" filepath="$PROJECT_DIR$/SpringBoot_Quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot_RocketMq/SpringBoot_RocketMq.iml" filepath="$PROJECT_DIR$/SpringBoot_RocketMq/SpringBoot_RocketMq.iml" />
     </modules>
   </component>
 </project>

@@ -6,16 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringBoot_Quartz" />
+        <module name="SpringBoot_RocketMq" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="SpringBoot_Quartz" target="1.8" />
+      <module name="SpringBoot_RocketMq" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SpringBoot_Quartz" options="-parameters" />
+      <module name="SpringBoot_RocketMq" options="-parameters" />
     </option>
   </component>
 </project>
