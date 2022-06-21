@@ -32,7 +32,7 @@
         <dependency><!--添加MySql依赖 -->
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.19</version>
+            <version>8.0.28</version>
         </dependency>
         <dependency><!--添加Mybatis依赖 配置mybatis的一些初始化的东西-->
             <groupId>org.mybatis.spring.boot</groupId>
